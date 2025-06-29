@@ -11,7 +11,7 @@
 ## 💡 What I'm Learning and Practicing
 - ✅ **DSA (Data Structures & Algorithms)** – to improve logical thinking and coding efficiency.
 - ✅ **OOP (Object-Oriented Programming)** – to build reusable and maintainable codebases.
-- 📦 Exploring tools: Git, Docker, Linux, Firebase, React Native, Skia, Unity (beginner).
+- 📦 Exploring tools: Git, Docker, Linux, Firebase, React Native, Unity (beginner).
 
 ---
 
