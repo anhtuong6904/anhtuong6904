@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tường Nguyễn</h1>
+<h1 align="center">Hi, I'm Tường Nguyễn</h1>
 <h3 align="center">
-🎮 Game Developer Intern | 4th-year IT Student from Vietnam
+Game Developer Intern | 4th-year IT Student from Vietnam
 </h3>
 
 <p align="center">
@@ -90,7 +90,7 @@ to pathfinding and performance considerations.
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
@@ -103,7 +103,7 @@ to pathfinding and performance considerations.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anhtuong6904&layout=compact" />
 </p>
@@ -115,5 +115,3 @@ to pathfinding and performance considerations.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhtuong6904" />
 </p>
-
-✨ <i>Aspiring Game Developer Intern — learning by building games</i>
