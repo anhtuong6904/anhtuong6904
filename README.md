@@ -1,44 +1,119 @@
-# 👋 Hi there! I'm Nguyen Anh Tuong
+<h1 align="center">Hi 👋, I'm Tường Nguyễn</h1>
+<h3 align="center">
+🎮 Game Developer Intern | 4th-year IT Student from Vietnam
+</h3>
 
-🎓 I'm an Information Technology student with a strong interest in software development, system design, and game technology.
+<p align="center">
+I am a <b>4th-year Information Technology student</b> with a clear career goal of becoming a <b>Game Developer</b>.  
+I focus on <b>gameplay programming</b>, <b>game AI</b>, and <b>core game systems</b>.  
+I have hands-on experience building 2D game systems with <b>MonoGame</b> and <b>basic practical knowledge of Unity</b>.
+</p>
 
-🎯 **Career Goals:**
-- ⚙️ Become a **DevOps Engineer** — focusing on automation, infrastructure, CI/CD, and scalable systems.
-- 🎮 Develop as a **Game Developer** — especially in 2D/3D gameplay mechanics and system architecture.
+<p align="center">
+I enjoy understanding how games work internally — from movement and AI decision-making  
+to pathfinding and performance considerations.
+</p>
 
----
-
-## 💡 What I'm Learning and Practicing
-- ✅ **DSA (Data Structures & Algorithms)** – to improve logical thinking and coding efficiency.
-- ✅ **OOP (Object-Oriented Programming)** – to build reusable and maintainable codebases.
-- 📦 Exploring tools: Git, Docker, Linux, Unity (beginner).
-
----
-
-## 🧠 My Main Programming Languages
-- 💻 **C#** – for Unity and object-oriented applications.
-- 💻 **C++** – for systems-level and performance-critical programming.
-- ☕ **Java** – for Android and backend basics.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anhtuong6904&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚧 Projects & Practice
-> I haven't built a complete game yet, but I’m working on small utilities and tools to strengthen my programming foundation.  
-> A basic 2D rhythm game is under development as my first real project.
+## Career Objective
+- Apply for **Game Developer Intern / Junior Gameplay Programmer**
+- Gain hands-on experience in:
+  - Gameplay programming
+  - NPC & Enemy AI
+  - Game systems & optimization
+- Continuously improve **algorithmic thinking for game development**
 
 ---
 
-## 📚 Current Learning Roadmap
-- 🛠️ **DevOps**: Learning Docker, CI/CD pipelines, Bash scripting, monitoring tools.
-- 🎮 **Game Dev**: Exploring Unity (C#) and Godot, building mechanics from scratch.
-- 📱 **Mobile Dev**: Working with React Native + Skia to create custom drawing features.
+## Currently Learning
+- **MonoGame**
+- **Unity 2D / Unity 3D**
+- Gameplay AI & game architecture
 
 ---
 
-## 📬 Contact Me
-- Email: **anh.tuong.dev@gmail.com**
-- GitHub: [github.com/tuongnguyen](https://github.com/tuongnguyen)
+## Technical Skills
+
+### Game Development
+- **MonoGame**
+  - 2D gameplay systems
+  - Tile-based maps (Tiled)
+  - NPC & Animal AI
+- **Unity (Basic)**
+  - C# scripting
+  - Gameplay logic
+  - Basic character movement & interaction
+
+### AI & Gameplay Concepts
+- State Machine
+- Behavior Tree (basic)
+- Grid-based pathfinding
+- Manhattan distance
+- Spatial logic:
+  - Range detection
+  - Nearest-entity search
 
 ---
 
-> 📌 *"Start small, stay consistent, and grow with purpose."*
+### Programming
+- **C#** (primary language)
+- **JavaScript** (basic)
+- **HTML / CSS**
+- **React** (basic understanding)
+
+---
+
+### Database
+- **MySQL**
+- **SQL Server**
+- Basic CRUD operations & queries
+
+---
+
+## Projects
+- **DungeonSlime (MonoGame Tutorial)**  
+  https://github.com/anhtuong6904/project_learn_monogame
+
+- **TribeBuild – 2D Building Game**  
+  https://github.com/anhtuong6904/BuildingGame
+
+---
+
+## 📫 Contact
+- 📧 Email: **anh.tuong.dev@gmail.com**
+- 💻 GitHub: https://github.com/anhtuong6904
+
+---
+
+## 🧰 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anhtuong6904&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anhtuong6904&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhtuong6904" />
+</p>
+
+✨ <i>Aspiring Game Developer Intern — learning by building games</i>
