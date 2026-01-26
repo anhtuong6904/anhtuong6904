@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tường Nguyễn</h1>
+<h1 align="center">Hi, I'm Nguyen Anh Tuong</h1>
 <h3 align="center">
 Game Developer Intern | 4th-year IT Student from Vietnam
 </h3>
