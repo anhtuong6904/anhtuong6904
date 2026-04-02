@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nguyen Anh Tuong</h1>
 <h3 align="center">
-Game Developer Intern | 4th-year IT Student from Vietnam
+Game Developer | 4th-year IT Student from Vietnam
 </h3>
 
 <p align="center">
