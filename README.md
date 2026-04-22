@@ -14,22 +14,6 @@ I enjoy understanding how games work internally — from movement and AI decisio
 to pathfinding and performance considerations.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anhtuong6904&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## Career Objective
-- Apply for **Game Developer Intern / Junior Gameplay Programmer**
-- Gain hands-on experience in:
-  - Gameplay programming
-  - NPC & Enemy AI
-  - Game systems & optimization
-- Continuously improve **algorithmic thinking for game development**
-
----
-
 ## Currently Learning
 - **MonoGame**
 - **Unity 2D / Unity 3D**
