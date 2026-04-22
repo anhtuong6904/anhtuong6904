@@ -2,15 +2,23 @@
   <img src="https://res.cloudinary.com/dicp5p3pr/image/upload/v1776884170/Sprite-0002_qg0ldi.gif" width="100" />
 </p>
 
-<h1 align="center">Nguyen Anh Tuong</h1>
+<h1 align="center">Hey, I'm Tuong 👋</h1>
 
 <p align="center">
-  <b>Game Developer</b> · 4th-year IT Student · Vietnam
+  ☕ Here's a cup of coffee — let's talk for a bit.
 </p>
 
 <p align="center">
+  That little detective up there is <b>Suy1x</b> — my companion and the main character of a game I'm building. 🦊<br>
+  He's been with me through every line of code, every bug, every late night.<br>
+  One day, he'll have his own world to explore. Until then — he watches over this page.
+</p>
+
+<p align="center">
+  I'm a 4th-year IT student preparing for my internship,<br>
+  building small games and occasionally designing them.<br>
   Focused on gameplay programming, game AI, and core game systems.<br>
-  Building with <b>MonoGame</b> · Learning <b>Unity 2D/3D</b>
+  Still learning, still building — crafting my own little worlds along the way.
 </p>
 
 <p align="center">
