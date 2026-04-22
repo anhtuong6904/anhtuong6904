@@ -6,15 +6,12 @@
 
 </p>
 
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dicp5p3pr/image/upload/v1776884170/Sprite-0002_qg0ldi.gif" width="120" />
-</p>
 <p align="center">
 
   Focused on gameplay programming, game AI, and core game systems.<br>
 
   Building with <b>MonoGame</b> · Learning <b>Unity 2D/3D</b>
+  <img src="https://res.cloudinary.com/dicp5p3pr/image/upload/v1776884170/Sprite-0002_qg0ldi.gif" width="120" />
 
 </p>
 
