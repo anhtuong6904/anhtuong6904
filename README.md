@@ -22,9 +22,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anh.tuong.dev@gmail.com">anh.tuong.dev@gmail.com</a> ·
-  <a href="https://github.com/anhtuong6904">@anhtuong6904</a>
-  <a href="https://anhtuong6904.itch.io/">@anhtuong6904</a>
+  <a href="mailto:anh.tuong.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anh.tuong.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anhtuong6904">
+    <img src="https://img.shields.io/badge/GitHub-anhtuong6904-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://anhtuong6904.itch.io">
+    <img src="https://img.shields.io/badge/itch.io-anhtuong6904-FA5C5C?style=flat&logo=itchdotio&logoColor=white" />
+  </a>
 </p>
 
 ---
