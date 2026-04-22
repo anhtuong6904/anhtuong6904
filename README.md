@@ -34,7 +34,7 @@
 
 **AI & Gameplay** — State Machine · Behavior Tree · Grid pathfinding · Range & proximity detection
 
-**Programming** — C# · JavaScript · HTML/CSS · React (basic) · MySQL · SQL Server
+**Programming** — C# · JavaScript · HTML/CSS · React (basic) · ReactNative(basic) · MySQL · SQL Server
 
 ---
 
