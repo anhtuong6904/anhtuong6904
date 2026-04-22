@@ -23,7 +23,8 @@
 
 <p align="center">
   <a href="mailto:anh.tuong.dev@gmail.com">anh.tuong.dev@gmail.com</a> ·
-  <a href="https://github.com/anhtuong6904">github.com/anhtuong6904</a>
+  <a href="https://github.com/anhtuong6904">@anhtuong6904</a>
+  <a href="https://anhtuong6904.itch.io/">@anhtuong6904</a>
 </p>
 
 ---
